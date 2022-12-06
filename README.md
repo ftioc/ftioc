@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ftioc
 - 👀 I’m interested in digital signal processing, structural health monitoring, acoustics and vibrations and railway infrastructure
-- 🌱 I’m currently learning python, while re(learning) matlab after a year outside of academia
-- 💞️ I’m looking to collaborate on anything related to the above :) 
 <!---- 📫 How to reach me --->
 
 
